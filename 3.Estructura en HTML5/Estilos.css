@@ -1,0 +1,24 @@
+body{
+    background-color: mediumpurple;
+    /*Comentario*/
+    font-family: Arial, Helvetica, "Trebchet MS", Verdana, sans-serif,;
+}
+
+h1{
+    color: deeppink;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+p{
+    /*Sirve para cambiar el color*/
+    color: blueviolet;
+    /*Font-size es para cambiar el tamaño de la fuente*/
+    font-size: 15 px;
+}
+
+div h2{
+    color: aqua;
+}
